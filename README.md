@@ -71,15 +71,6 @@ The analysis includes visual representations of:
 
 ---
 
-## 🗺️ Future Enhancements
-
-* Add interactive dashboards using Plotly Dash or Tableau.
-* Integrate geospatial analysis using Folium.
-* Build a machine learning model to predict listing prices.
-* Automate the data pipeline for continuous insights.
-
----
-
 ## 🙏 Acknowledgements
 
 * **Airbnb Open Data** source (public dataset).
